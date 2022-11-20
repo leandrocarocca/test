@@ -13,5 +13,6 @@ public class test
         printInteger(4);
         printInteger(5);
         sayHello();
+
     }
 }
