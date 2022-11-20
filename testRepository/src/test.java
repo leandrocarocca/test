@@ -9,9 +9,6 @@ public class test
     }
     public static void main(String[] args)
     {
-        printInteger(3);
-        printInteger(4);
-        printInteger(5);
         sayHello();
 
     }
